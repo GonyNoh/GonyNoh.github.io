@@ -1,1 +1,5 @@
-# Input Shaping 관련 실험  
+## About
+* Ph.D. student at ASL <http://asl.inha.ac.kr/>
+
+## Project
+* Input Shaping 
